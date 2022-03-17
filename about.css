@@ -1,0 +1,9 @@
+.newbox{
+    height: 70vh;
+    width: 100%;
+    background-color: rgb(252, 218, 224);
+    font-family: var(--font1);
+}
+.newbox h1{
+    text-align: center;
+}

@@ -1,0 +1,28 @@
+.post-img{
+    height: 300px;
+    overflow: hidden;
+}
+
+
+.post-img img{
+    width: 100%;
+
+
+}
+.blog-post-content h1{
+    color:darkcyan;
+    text-align: center;
+}
+.blog-post-content p{
+    color:darkcyan;
+    
+}
+.container{
+    /* background-color: red; */
+    height: 75px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    cursor: pointer;
+}
